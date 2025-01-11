@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/subhash-k0"><img src="./img/img_001.png" alt="Image Description" width="420" align="right"/></a>
-<a href="https://github.com/subhash-k0"><img src="./gif/Header_1.gif" width="400" align=left /></a>
+<a href="https://github.com/subhash-k0"><img src="Header_1.gif" width="99%" align=left /></a>
 
 <a href="https://github.com/subhash-k0"><img src="https://github-readme-stats.vercel.app/api?username=subhash-k0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide_border=True" width="43%"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-k0&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&text_color=000&theme=graywhite&hide_border=false" width="28.5%"/></a>
 <a href="https://github.com/subhash-k0">
